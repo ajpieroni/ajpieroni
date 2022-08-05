@@ -1,13 +1,28 @@
+# Welcome: this is just the beginning.
+
 - 👋 Hi, I’m @ajpieroni
 - 👀 I’m a Duke University student pursuing the CS + Linguistics and Classical Languages major programs along with a minor in archaeology.
-- 🌱 I’m currently learning Java, Python, HTML, CSS.
+- 🌱 I’m currently learning Python, HTML, CSS.
 - 📫 How to reach me: alexander.pieroni@duke.edu
 - 💬 I hope to pursue NLP and UI/UX in the future.
 
 
-Here's what I've learned/learning so far: 
-Spring 2022: R
-Summer 2022: Python...
+## Here's what I've learned/learning so far: 
+
+### Summer 2022:   
+Python (June - present)   
+- [Udemy's 2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)     
+  
+
+HTML & CSS (July - present)
+- [The Odin Project](https://www.theodinproject.com)
+
+### Spring 2022: 
+- R through Duke's STA199: Introduction to Data Science
+
+### Other Profiles
+[LinkedIn](https://www.linkedin.com/in/alex-pieroni-29b9ba1a8/)   
+[Personal Blog](www.yearofpause.com)
 
 <!---
 ajpieroni/ajpieroni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
