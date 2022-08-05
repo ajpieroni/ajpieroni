@@ -1,6 +1,6 @@
 # Welcome: this is just the beginning.
 
-- 👋 Hi, I’m @ajpieroni
+
 - 👀 I’m a Duke University student pursuing the CS + Linguistics and Classical Languages major programs along with a minor in archaeology.
 - 🌱 I’m currently learning Python, HTML, CSS.
 - 📫 How to reach me: alexander.pieroni@duke.edu
