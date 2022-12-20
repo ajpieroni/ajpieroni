@@ -20,6 +20,9 @@ HTML & CSS (July - present)
 ### Spring 2022: 
 - R through Duke's STA199: Introduction to Data Science
 
+### Fall 2022:
+- Java through Duke's COMPSCI 201: Data Structures and Algorithms
+
 ### Other Profiles
 [LinkedIn](https://www.linkedin.com/in/alex-pieroni-29b9ba1a8/)   
 [Personal Blog](www.yearofpause.com)
