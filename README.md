@@ -2,7 +2,6 @@
 
 
 - 👀 I’m a Duke University student pursuing the CS + Linguistics and Classical Languages major programs along with a minor in Classical Archaeology.
-- 🌱 I’m currently learning Node.js, Javascript, and C
 - 📫 How to reach me: alexander.pieroni@duke.edu
 - 💬 I hope to pursue NLP in the future.
 
